@@ -22,3 +22,5 @@ Or add this package to your `package.json` file:
 const myPackage = require('@codertocat/hello-world-npm');
 myPackage.helloWorld();
 ```
+
+quick test
